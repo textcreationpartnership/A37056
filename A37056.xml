@@ -1,0 +1,190 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Certaine considerations shewing the necessity of a correspondencie in spirituall matters betwixt all Protestant churches an especiall meanes for effecting whereof and healing our present breaches would be a nationall synod / by John Dury.</title>
+            <author>Dury, John, 1596-1680.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37056</idno>
+            <idno type="STC">Wing D2839</idno>
+            <idno type="STC">ESTC R15939</idno>
+            <idno type="EEBO-CITATION">13353558</idno>
+            <idno type="OCLC">ocm 13353558</idno>
+            <idno type="VID">99214</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37056)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99214)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 787:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Certaine considerations shewing the necessity of a correspondencie in spirituall matters betwixt all Protestant churches an especiall meanes for effecting whereof and healing our present breaches would be a nationall synod / by John Dury.</title>
+                  <author>Dury, John, 1596-1680.</author>
+               </titleStmt>
+               <extent>[2], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Wil. Hope,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian union --  England --  Early works to 1800.</term>
+               <term>Christian union --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:99214:1"/>
+               <pb facs="tcp:99214:1"/>
+CERTAINE CONSIDERATIONS, SHEWING The neceſsity of a CORRESPON<g ref="char:EOLhyphen"/>DENCIE in Spirituall matters betwixt all Proteſtant Churches.</p>
+            <p>An eſpeciall meanes for effecting whereof, and healing our preſent breaches, would be a NATIONALL SYNOD.</p>
+            <p>By <hi>John Dury.</hi>
+            </p>
+            <figure>
+               <p>FIDE JVSTVS VIVET</p>
+               <p>DEVS PROVIDEBIT</p>
+               <p>RY</p>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>Printed for <hi>Wil. Hope, Anno Dom.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:99214:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:99214:2"/>
+            <head>Certain Conſiderations, ſhewing the neceſsity of a Correſpondency in Spirituall matters betwixt Proteſtant Churches.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Here be three heads of reaſons, by which the abſolute neceſsity of a Spirituall Correſpondencie in religious matters betwixt Pro<g ref="char:EOLhyphen"/>teſtant Churches may be made apparent, which are theſe:</p>
+            <p>Firſt, the truth of their Religi<g ref="char:EOLhyphen"/>ous profeſſion of Chriſtianity doth oblige them to intend a mutuall Correſpondency. Secondly, the condition of the Churches ſhould ſtrongly induce them ſpeedily to ſettle it one with another: And thirdly, the danger of the publike ſtates ſhould move them to maintaine it conſtantly, when once it is ſettled.</p>
+            <div n="1" type="consideration">
+               <head>Of the firſt.</head>
+               <p>In the truth of our Religious profeſſion of <milestone type="tcpmilestone" unit="unspecified" n="1"/> Chriſtianity, we ſhould conſider the things where<g ref="char:EOLhyphen"/>in
+<pb n="2" facs="tcp:99214:3"/>
+it doth conſiſt; the end wherefore God giveth his graces, for which wee ſhould make uſe of the ſame, and the meanes by which wee may attaine to this end.</p>
+               <p>The truth of Chriſtianity conſiſteth in the ſound<g ref="char:EOLhyphen"/>neſs of the Doctrine, &amp; in the holineſs of the life of the Profeſſors, <hi>Tit.</hi> 1.1, 3, 8. To maintain &amp; advance both theſe, Proteſtants are obliged one towards another, by the communion of Saints, whereof they make profeſſion in the Symbole of the Apo<g ref="char:EOLhyphen"/>ſtles. But the communion of Saints is not onely the conjunction of beleevers in faith, and hope, and hearty prayers towards God one for another; but alſo a reall endeavour to communicate the graces which God hath beſtowed upon every one ſeve<g ref="char:EOLhyphen"/>rally, to each other in common, by a charitable care to provoke one another unto love, and to good workes, <hi>Heb.</hi> 10.24. which cannot poſſibly be done, except a Correſpondency for maintain<g ref="char:EOLhyphen"/>ing of Truth and Holineſſe be intended: There<g ref="char:EOLhyphen"/>fore ſuch a Correſpondency is abſolutely neceſſa<g ref="char:EOLhyphen"/>rie to be intended; and if it be not intended, the communion of Saints is broken, and the truth of Doctrine, with the life of Holineſſe, will ſuffer loſſe and damage thereby, and God will infallibly require ſuch a loſſe at the hands of thoſe which are cauſes thereof, or doe not hinder it when they may.</p>
+               <p>The end wherefore God doth give the graces and gifts of his Spirit, is, that the Members of the <milestone type="tcpmilestone" unit="unspecified" n="2"/> body of Chriſt ſhould profit thereby one to<g ref="char:EOLhyphen"/>wards another, 1 <hi>Corinth.</hi> 12. 7. and that they
+<pb n="3" facs="tcp:99214:3"/>
+ſhould trade therewith, to gaine more graces, <hi>Luke</hi> 19. 12, 13. <hi>Matth.</hi> 25.14. But it is no more poſſible to doe this, without an intention of main<g ref="char:EOLhyphen"/>taining an intercourſe of Spirituall Correſponden<g ref="char:EOLhyphen"/>cie, then it is poſſible for the members of the bo<g ref="char:EOLhyphen"/>die, which are not knit together by joynts, ſinews, and veines, to conveigh bloud and nouriſhment one to another: Therefore a courſe of Corre<g ref="char:EOLhyphen"/>ſpondencie is abſolutely neceſſary to be intended; or, if it be not intended, and put in practice, Gods intention, in giving his gifts unto his Church, is not fulfilled, and hee may, and will juſtly deprive ſuch of them as make no good uſe thereof.</p>
+               <p>The end, to which wee ſhould uſe Gods graces, <milestone type="tcpmilestone" unit="unspecified" n="3"/> is the glory of God, 1 <hi>Corin.</hi> 10.31. and our mu<g ref="char:EOLhyphen"/>tuall edification, 1 <hi>Corin.</hi> 14.26. and <hi>Rom.</hi> 14.19. and 15.2. Theſe two ends are ſubordinate one to another: For, God cannot be glorified otherwiſe by us, then by this, that we bring forth much fruit one towards another, <hi>John</hi> 15.6. and <hi>Matth.</hi> 15.6. becauſe our good cannot reach to him, as <hi>David</hi> ſaith, <hi>Pſal.</hi> 16.2. <hi>but to the Saints that are in the earth, and to the excellent Ones, in whom ſhould be all our delight, ibid. ver.</hi> 3. But it is not poſſible to intend this communication of our goodneſſe unto the Saints, by the endeavour of mutuall edifica<g ref="char:EOLhyphen"/>tion, except we uſe meanes to know one anothers condition, of which, the chiefe is a conſtant courſe of mutuall intelligence and correſpondencie: Therefore a ſettled Correſpondencie is wholly neceſſary to be intended, if wee will not deprive God of his glory, and his Saints of the intereſt
+<pb n="4" facs="tcp:99214:4"/>
+which they ſhould have in us by the right uſe of our talents.</p>
+               <p>The meanes by which this end is to bee at<g ref="char:EOLhyphen"/>tained <milestone type="tcpmilestone" unit="unspecified" n="4"/> is, to endeavour to keep the unity of the Spirit in the bond of peace, which wee are com<g ref="char:EOLhyphen"/>manded, and by many reaſons exhorted to doe, <hi>Epheſ.</hi> 4.3, 4, 5, 6. Now this endeavour, becauſe it is the immediate effect of true charity, therefore it is the true meanes of mutuall edification: For onely charity is that which doth edifie, as may appeare clearly by 1 <hi>Corinth.</hi> 8.1. and <hi>Chapt.</hi> 13. <hi>Epheſ.</hi> 4.15, 16. Now charity cannot bee main<g ref="char:EOLhyphen"/>tained, except there be an endeavour to know one anothers eſtate; nor can the unity of the Spirit bee kept or ſought for, without this ſame care: There<g ref="char:EOLhyphen"/>fore a Correſpondencie for mutuall intelligence in Spirituall matters, tending to unity and peace in the profeſſion of the truth, is a thing abſolutely neceſſary to bee intended by thoſe that make ſin<g ref="char:EOLhyphen"/>cere profeſſion of the Goſpell; or, if they intend it not, it is apparent they neglect a fundamentall duty of the life of Chriſtianity, becauſe they make no uſe of the chiefe and onely meanes of mutuall edification, wherein God is chiefly glorified.</p>
+            </div>
+            <div n="2" type="consideration">
+               <head>Of the ſecond.</head>
+               <p>If wee looke upon the Churches, and conſider, as wee ought, ſeriouſly the lamentable eſtate wherein they are, the cauſes thereof, and the iſſue which is likely to follow, if God doth not prevent the ſame, it will evidently appeare, that a mutuall and brotherly Correſpondency for maintaining of
+<pb n="5" facs="tcp:99214:4"/>
+truth and peace is moſt abſolutely neceſſary to be ſpeedily ſettled, for publike edification of that which is already decayed, and of carefull preſer<g ref="char:EOLhyphen"/>vation of that which is yet entire, from inevitable ruines in time to come<g ref="char:punc">▪</g> And to make this cleare, the Churches ſhould be conſidered, as they ſtand in relation one to another within themſelves, and as they relate their common adverſaries, who watch over them for their deſtruction.</p>
+               <p>In reſpect of themſelves, as they ſtand within <milestone type="tcpmilestone" unit="unspecified" n="1"/> themſelves, their caſe is fearfull and deplorable: for it is moſt evident, that they are not onely ſtran<g ref="char:EOLhyphen"/>gers one to another, and care little or nothing one for another in any Spirituall publike waies, which is a great breach of charity and holy communion, for which they have deſerved, and deſerve ſtill the judgements which are come, and will (if pre<g ref="char:EOLhyphen"/>vention be not uſed) further come upon them; but they are at variances in great &amp; weighty matters, and by their variances and diſputes, they are be<g ref="char:EOLhyphen"/>come full of partialities, of ſidings, and of oppoſi<g ref="char:EOLhyphen"/>tions one againſt another, ſo that ſome of them have ſtudied the overthrow of others, which is a miſerable and deplorable caſe, when it falleth out amongſt brethren, and chiefly then, when God and his Goſpel is ſo highly diſhonoured thereby, as by theſe controverſies of Proteſtants it doth ap<g ref="char:EOLhyphen"/>peare he is; for what is more miſerable, then that men ſhould become as it were mad to devoure one another, and that every one ſhould eate the fleſh of his owne arme, <hi>Manaſſeh Ephraim,</hi> and <hi>Ephra<g ref="char:EOLhyphen"/>im Manaſſeh,</hi> and theſe two againſt <hi>Judah?</hi> and
+<pb n="6" facs="tcp:99214:5"/>
+what is more deplorable, then to ſee all the excel<g ref="char:EOLhyphen"/>lencie of <hi>Jacob</hi> turned to a reproach and by-word amongſt the profane adverſaries of truth and god<g ref="char:EOLhyphen"/>lineſſe? and the whole fruit of the glorious pro<g ref="char:EOLhyphen"/>feſſion of the Goſpel of peace, to become the bit<g ref="char:EOLhyphen"/>terneſſe of gall and wormwood to thoſe that ſhould reap ſweet comforts and ſalvation thereby? is not this moſt miſerable and deplorable? and yet this is the very caſe of Proteſtant Churches within themſelves: for they ſnatch on the right hand, and are ſtill hungry of one anothers fleſh; and eate on the left hand, and are not ſatisfied.</p>
+               <p>Now if this evill be not remedied, it is moſt apparent, that they will at laſt deſtroy one ano<g ref="char:EOLhyphen"/>ther: For, <hi>A Kingdome divided within it ſelfe can<g ref="char:EOLhyphen"/>not ſtand.</hi> But to find a remedy hereunto, there is no poſſibility, except ſome courſe of amiable Correſpondency (which ſhould be ſettled ſpeedi<g ref="char:EOLhyphen"/>ly amongſt them) be uſed for the healing of pre<g ref="char:EOLhyphen"/>ſent breaches, whereby they teare their owne bowells in pieces, and for the prevention of future cauſes of diviſions and diſtractions amongſt them<g ref="char:EOLhyphen"/>ſelves.</p>
+               <p>The healing of preſent breaches can be but three waies intended.</p>
+               <p>The firſt is, by labouring to ſuppreſſe injurious, notorious, and publike ſcandals, raiſed againſt one another, which pre-poſſeſſe the minds of parties, and inflame them to vindicate practices more and more.</p>
+               <p>The ſecond is, by diſpoſing their minds to<g ref="char:EOLhyphen"/>wards reconcileable intentions; which may bee
+<pb n="7" facs="tcp:99214:5"/>
+done by rectifying their miſtakes concerning each other, by ſetting them in a right way of writing, and treating of Theologicall matters without paſſion and prejudice, and by ſuggeſting unto them impartiall waies of proceeding, whereby a full reconcilement of differences, and the unity of the Spirit may bee by Gods grace obtained in due time.</p>
+               <p>The third is, by procuring a Synod of Prote<g ref="char:EOLhyphen"/>ſtants, wherein their Brotherly love and recon<g ref="char:EOLhyphen"/>cilement may bee ſettled by a firme league of du<g ref="char:EOLhyphen"/>ties to be intended for their inward mutuall edifi<g ref="char:EOLhyphen"/>cation in future times, and for their joynt outward propagating of the Goſpell unto all that are igno<g ref="char:EOLhyphen"/>rant thereof.</p>
+               <p>Theſe three waies of healing breaches, as they are moſt neceſſary, ſo they cannot poſſibly be in<g ref="char:EOLhyphen"/>tended without a ſpeedy ſettlement of Corre<g ref="char:EOLhyphen"/>ſpondency and entertaining of Intelligence by ſome, that may make their addreſſe, and have ac<g ref="char:EOLhyphen"/>ceſſe unto all parties to worke theſe matters upon them by waies void of all exception and partiality: and therefore a ſettled Correſpondency for mutuall Intelligence, in reſpect of theſe things, is abſolutely neceſſary. And if it be not intended, but ſlighted and hindered, certainly the guilt of the ruine of Proteſtant Churches will fall heavie upon thoſe, who give occaſion to ſtop the enter<g ref="char:EOLhyphen"/>courſe of ſuch a Correſpondency.</p>
+               <p>The prevention of future diviſions and diſtracti<g ref="char:EOLhyphen"/>ons is neceſſary to bee thought upon; not onely becauſe naturally our inbred corruption doth be<g ref="char:EOLhyphen"/>get
+<pb n="8" facs="tcp:99214:6"/>
+in all humane ſocieties, but chiefly in thoſe which concerne Religion, the ſeedes of ſtrife, by reaſon of the pride, the ignorance, and the paſſion of ſelfe-ſeeking conceits of ſome which trouble all; but alſo, becauſe theſe breaches and diviſions will continually grow worſe and worſe, and come to the extremity of imbitterment: ſo that they will be paſt curing in ſhort time, if no courſe bee taken to ſtop them ſpeedily. Now it is moſt evident, that no courſe can be taken, except a ſettled enter<g ref="char:EOLhyphen"/>courſe of Intelligence betwixt the leading men of the Churches be brought to paſſe; and this can<g ref="char:EOLhyphen"/>not be brought to paſſe, without the upholding of a Correſpondencie: And therefore a Correſpon<g ref="char:EOLhyphen"/>dencie is moſt abſolutely neceſſary to be ſpeedily ſettled.</p>
+               <p>In reſpect of their adverſaries which watch over them for their deſtruction, their caſe is very dan<g ref="char:EOLhyphen"/>gerous, and exceedingly to be feared. There be two ſorts of common adverſaries: ſome are crept in from without amongſt them, who make it their worke to foment their diviſions, and caſt in bones amongſt them to keep them at perpetuall variance; as is moſt cleare by dolefull experience both in Germany and elſewhere. And others ſtand with<g ref="char:EOLhyphen"/>out, laying new plots, if the old ſhould faile, and maintaining the old ones ſo long as they can poſ<g ref="char:EOLhyphen"/>ſibly, by all manner of Emiſſaries and Practices, and with much coſt of Bribery and Correſpon<g ref="char:EOLhyphen"/>dencie, whereof a little Volume could be written, if need were, but becauſe this is no leſſe evident to all that have eyes in their head, then the Sunne is
+<pb n="9" facs="tcp:99214:6"/>
+at noon-day, I ſhall not need to enlarge my ſelfe; chiefly, ſeeing already ſomething hath bin written of this matter not long agoe: and ſeeing by daily experience the Practices and Plots from without are diſcovered more and more, with an evident ſe<g ref="char:EOLhyphen"/>quele and coherence which they have towards an<g ref="char:EOLhyphen"/>other.</p>
+               <p>Now, ſeeing the Papiſts, though many waies amongſt themſelves divided, yet, as common ad<g ref="char:EOLhyphen"/>verſaries to Proteſtants, concurre and joyne fully with indefatigable paines and diligence, both to undermine the fundamentall Conſtitutions of the Churches inwardly, and to aſſault them outwardly to diſturbe their peace; and both waies to worke out correſpondently, not without great coſt and expences, their moſt dangerous plots and at<g ref="char:EOLhyphen"/>tempts, which infallibly will bring Proteſtancie to ruine, if no common courſe be thought upon, and concurrently followed to prevent the ſame. Now no ſuch courſe can poſſibly be taken and fol<g ref="char:EOLhyphen"/>lowed by way of concurrence, without a ſettle<g ref="char:EOLhyphen"/>ment of ſome Correſpondencie to that effect be<g ref="char:EOLhyphen"/>twixt the Churches: Therefore this ſettlement of a Correſpondencie is abſolutely neceſſary. For if we know, that the enemies of the Churches, and of the Goſpel take a common courſe to oppoſe the ſame, &amp; yet take no thought of any co<g ref="char:cmbAbbrStroke">̄</g>mon courſe, to maintaine both theſe in ſafety againſt their de<g ref="char:EOLhyphen"/>vices, it is evident, that they will work their ends, and that wee wittingly and willingly ſuffer our ſelves to be overthrowne, and the Goſpel to be extinguiſhed. If then theſe ends and machinations
+<pb n="10" facs="tcp:99214:7"/>
+of theirs be knowne to any Proteſtants, who ſtudy not to reſiſt the ſame, it is apparent, that ſuch are guilty not onely of their owne bloud, and of the bloud of their Brethren in all the Churches; but alſo of the detriments which may befall unto the profeſſion of the Goſpel. From all which evils that I may approve my ſelfe free, and be found guiltleſſe in the preſence of God, I have thought good thus to beare witneſſe of theſe things, that I may procure, ſo farre as in me lyeth, the neceſſary and onely remedy of imminent dan<g ref="char:EOLhyphen"/>gers, and that it may not be neglected any longer, if poſſibly it may be uſed.</p>
+            </div>
+            <div n="3" type="consideration">
+               <head>Of the third.</head>
+               <p>It will be altogether needleſſe to make in this place any deſcription of the weakneſſe and totte<g ref="char:EOLhyphen"/>ring eſtate of Proteſtant Princes and Common-wealths, to ſhew in what caſe they are by reaſon of theſe troubles; but it will ſuffice in a word or two to point at the true cauſes of their miſeries, and the lamentable iſſue, which in all humane appea<g ref="char:EOLhyphen"/>rance will follow thereupon, if no prevention bee uſed. The true cauſes then of the weake eſtate are none other, but their inward diviſions, chiefly for matters of Religion, which have in matters of State not onely diſtracted continually their acti<g ref="char:EOLhyphen"/>ons, ſo that, by reaſon of jealouſies concerning Re<g ref="char:EOLhyphen"/>ligion, they never could joyne in Councells toge<g ref="char:EOLhyphen"/>ther for mutuall preſervation; but alſo this hath made ſome of them to help forward their neigh<g ref="char:EOLhyphen"/>bours overthrow: For, ſeeing all the commotions
+<pb n="11" facs="tcp:99214:7"/>
+of States in this age are originally ſprung from the differences of Proteſtants and Papiſts in Religion; and ſeeing the onely aime of the Pope and of his Agents is, and hath been, to root out the Here<g ref="char:EOLhyphen"/>tikes, that he may reduce all againe to himſelfe, by ſettling Eccleſiaſticall affaires according to his owne Lawes (to which nothing is ſo oppoſite, as the profeſſion of the Goſpel) therefore hee hath uſed all meanes and waies to trouble the Prote<g ref="char:EOLhyphen"/>ſtant States, and hath brought theſe warres upon them to weaken their ſtrength, and make them and the profeſſion of the Goſpel to become contempti<g ref="char:EOLhyphen"/>ble: for, perceiving that the flouriſhing Eſtate of Proteſtants did ſpread the light of the Goſpel ex<g ref="char:EOLhyphen"/>ceedingly abroad; and that by that light, as well the groſſe errours of his Doctrine, and ignorance of his dumb Idoll Clergy, as the Tyranny and Su<g ref="char:EOLhyphen"/>perſtitiouſneſſe of his Eccleſiaſticall Antichriſtian Government was diſcovered more and more, and in the end would be brought to nought: therefore, to keep his Throne and Kingdome from falling, hee hath ſet his wit and ſtrength aworke to make diviſions, and encreaſe ſtrife amongſt Proteſtants, by flattering ſome, perſecuting others; and finding them ſufficiently of themſelves diſpoſed and encli<g ref="char:EOLhyphen"/>ned thereunto, hee hath brought his ends ſo farre about, both in Germany and elſewhere, partly by the Lions waies, and partly by the Foxes; that if the ſeeds of Eccleſiaſticall diviſions, which give him all his advantages, be not taken away, there will never be any poſſibility of preventing a totall deſolation of theſe Churches and States. Now
+<pb n="12" facs="tcp:99214:8"/>
+theſe ſeeds of diviſion cannot poſſibly be remo<g ref="char:EOLhyphen"/>ved without ſome Correſpondency, tending to ſettle Proteſtants in a joynt courſe of profeſſing the Goſpel, for the better propagating thereof un<g ref="char:EOLhyphen"/>to Gods glory, and for their mutuall preſervation againſt theſe his violent and ſubtle attempts: And therefore in this reſpect alſo a courſe of Corre<g ref="char:EOLhyphen"/>ſpondency ſhould be maintained conſtantly, and countenanced by civill authority, for a concurrence in Spirituall matters betwixt the godly Divines of the Proteſtant Churches, that the truth, wherein all agree, may be confirmed and ſupported by Autho<g ref="char:EOLhyphen"/>rity to laſt unto future ages; and the differences, which cauſe their inward diſtractions, may be re<g ref="char:EOLhyphen"/>conciled, ſo farre as poſſibly can be done by print, or publike amiable treaties, whereunto the ſettle<g ref="char:EOLhyphen"/>ment of a Correſpondency, and ſome agency amongſt them to this effect is abſo<g ref="char:EOLhyphen"/>lutely neceſſary.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:99214:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
